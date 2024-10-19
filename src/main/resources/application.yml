@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo-modulith
+  datasource:
+    username: user
+    password: Test1234=
+    url: jdbc:postgresql://localhost:5432/modulith

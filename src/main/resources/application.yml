@@ -5,3 +5,6 @@ spring:
     username: user
     password: Test1234=
     url: jdbc:postgresql://localhost:5432/modulith
+  jpa:
+    hibernate:
+      ddl-auto: create
